@@ -34,4 +34,39 @@ It showcases governance, risk management, third-party assurance, contractual sec
 - ISO 27001
 - SOC 2
 - Executive Reporting
-- Business Continuity
+- Business Continuity & Resilience
+
+- ---
+
+## Portfolio Deliverables
+
+### M&A Cybersecurity Strategy
+
+- [M&A Cybersecurity Strategy](01-Strategy/README.md)
+
+### Cybersecurity Due Diligence
+
+- [Due Diligence Overview](02-Due-Diligence/README.md)
+- [Executive Cybersecurity Due Diligence Report](02-Due-Diligence/Executive-Cybersecurity-Due-Diligence-Report.md)
+- [M&A Cybersecurity Risk Register](02-Due-Diligence/Risk-Register.md)
+
+---
+
+## Portfolio Development
+
+This repository is being progressively developed to demonstrate practical approaches to cybersecurity governance across the M&A lifecycle.
+
+Planned additions include:
+
+- Post-acquisition security integration
+- 30-60-90 day integration roadmap
+- Third-party and supplier assurance
+- Contractual security requirements
+- Business continuity and operational resilience
+- Executive cybersecurity reporting
+
+---
+
+## Disclaimer
+
+The materials in this repository are sanitised portfolio examples created for professional and educational demonstration. They do not contain confidential client or employer information.
