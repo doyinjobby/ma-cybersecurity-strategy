@@ -50,7 +50,7 @@ It showcases governance, risk management, third-party assurance, contractual sec
 - [Executive Cybersecurity Due Diligence Report](02-Due-Diligence/Executive-Cybersecurity-Due-Diligence-Report.md)
 - [M&A Cybersecurity Risk Register](02-Due-Diligence/Risk-Register.md)
 
----
+
 
 ## Portfolio Development
 
@@ -58,8 +58,7 @@ This repository is being progressively developed to demonstrate practical approa
 
 Planned additions include:
 
-- Post-acquisition security integration
-- 30-60-90 day integration roadmap
+
 - Third-party and supplier assurance
 - Contractual security requirements
 - Business continuity and operational resilience
